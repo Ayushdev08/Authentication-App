@@ -10,6 +10,11 @@ This project features a simple yet responsive web-based sign-up and login form u
 3. [Assumptions and Limitations](#assumptions-and-limitations)
 
 ---
+Here is a screenshot of the application:
+
+![SignUpPage](signup.png)
+![LoginPage](login.png)
+
 
 ## How to Run the Project
 
