@@ -12,7 +12,9 @@ This project features a simple yet responsive web-based sign-up and login form u
 ---
 Here is a screenshot of the application:
 
+SignUp Page:
 ![SignUpPage](signup.png)
+Login Page:
 ![LoginPage](login.png)
 
 
